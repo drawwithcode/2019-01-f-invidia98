@@ -7,5 +7,5 @@ function setup() {
 }
 
 function draw() {
-  ciao
+  // put drawing code here
 }
